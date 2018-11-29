@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Shield_Arduino)(type Legacy)(uri U:/Documents/Kicad/Shield_Arduino_MOSH/Shield_Arduino.lib)(options "")(descr ""))
+)

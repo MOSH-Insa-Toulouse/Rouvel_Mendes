@@ -1,0 +1,15 @@
+#toto
+#RESISTOR
+'100k' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+'10k' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+'100' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+'1k' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+'0' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+'660' 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'
+
+#CAPACITOR
+'100n' 'Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm'
+'1u' 'Capacitor_THT:C_Rect_L7.0mm_W2.5mm_P5.00mm'
+
+
+
